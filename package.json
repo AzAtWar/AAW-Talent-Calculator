@@ -2,7 +2,7 @@
   "name": "talent-calc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://azatwar.github.io/AAW-Talent-Calculator/",
+  "homepage": "https://azatwar.github.io/AAW-Talent-Calculator",
   "dependencies": {
     "-": "0.0.1",
     "gh-pages": "^3.1.0",
